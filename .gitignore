@@ -1,0 +1,4 @@
+node_modules
+# .env
+
+backend-main/config/iot-data-20241-firebase-adminsdk-8w1au-03fa513c67.json
